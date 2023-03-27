@@ -67,11 +67,11 @@
   }
   
   .flip {
-    
+    transform: rotateY(0deg);
   }
   
   .match {
-  
+    
   }
   
   .show {
