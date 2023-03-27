@@ -46,7 +46,15 @@
   }
   
   .front {
-   
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid #a6a6a6;
+    background-color: #f2f2f2;
+    transform: rotateY(90deg);
   }
   
   .back {
