@@ -48,4 +48,26 @@ function clicking(){
 }
 
 
-function match(cardOne , cardTwo)
+function match(cardOne , cardTwo){
+
+    if(cardOne.dataset.index == cardTwo.dataset.index){
+
+        score.innerHTML = parseInt(score.innerHTML) + 1
+       
+        cardOne.classList.remove('flip') 
+        cardTwo.classList.remove('flip') 
+
+
+        cardOne.classList.add('match')
+        cardTwo.classList.add('match')
+
+
+    }else{
+
+        setTimeout(() => {
+            
+            cardOne.classList.remove('flip') 
+            cardTwo.classList.remove('flip') 
+        }, 1000);
+    }
+}
