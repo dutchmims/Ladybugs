@@ -9,7 +9,7 @@
   }
   
   .head {
-    max-width: 400px;
+    width: 480px;
     border: 4px solid #686868;
     margin: auto;
     height: 150px;
