@@ -36,10 +36,13 @@
   }
   
   .cell div {
+    height: 130px;
+    border-radius: 4px;
     }
   
   .cell {
-    
+    position: relative;
+    cursor: pointer;
   }
   
   .front {
