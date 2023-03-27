@@ -71,7 +71,7 @@
   }
   
   .match {
-    
+    transform: rotateY(0deg);
   }
   
   .show {
