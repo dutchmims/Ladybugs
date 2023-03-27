@@ -79,8 +79,16 @@
   }
 
   @media screen and (min-width: 770px) {
-    .head
+    .head {
+        max-width: 760px;
+      }  
 
-    .container 
+    .container {
+        grid-template-columns: repeat(4, auto);
+      }
 
-    .cell div
+    .cell div {
+        height: 170px;
+      }
+
+    }
