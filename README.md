@@ -16,10 +16,10 @@ Ladybugs (https://dutchmims.github.io/Ladybugs/)
 2. Features
 3. UX/UI
 4. Design
-7. Technologies Used
-8. Testing
-9. Deployment
-10. Sources 
+5. Technologies Used
+6. Testing
+7. Deployment
+8. Sources 
 
 # Project Overview
 Ladybugs is an addictive interactive memory card game where the user's aim is to find all matching ladybugs as quick as possible
@@ -38,7 +38,8 @@ Ladybugs is an addictive interactive memory card game where the user's aim is to
 
 
 # Testing
-
+* Validator.w3.org was used to test the HTML code of the project and found no errors. 
+* Validator.w3.org was used to test the CSS code of the project and found no errors. 
 
 # Deployment
 
