@@ -22,6 +22,7 @@ Ladybugs (https://dutchmims.github.io/Ladybugs/)
 10. Sources 
 
 # Project Overview
+Ladybugs is an addictive interactive memory card game where the user's aim is to find all matching ladybugs as quick as possible
 
 
 # Features
