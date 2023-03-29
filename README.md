@@ -22,7 +22,7 @@ Ladybugs (https://dutchmims.github.io/Ladybugs/)
 8. Sources 
 
 # Project Overview
-Ladybugs is an addictive interactive memory card game where the user's aim is to find all matching ladybugs as quick as possible
+Ladybugs is a fun, addictive and interactive memory card game where the user's aim is to find all matching ladybugs as quick as possible. It is suitable for any age. It's easy to pick up and play without instructions.
 
 
 # Features
@@ -43,6 +43,12 @@ Ladybugs is an addictive interactive memory card game where the user's aim is to
 
 # Deployment
 
+###Version Control
+* From the Gitpod terminal use "git add ." which tells git you would like to make changes/updates to the files.
+* Then use "git commit -m " with a comment, this will commit the changes and update the files.
+* Then using the "git push" command this will push the committed changes to your GitHub repository.
+
+Deployment
 The site was deployed to GitHub pages. The steps taken are as follows:
 1. Log in to Github
 2. In the repository "Ladybugs", navigate to the settings tab from the top menu.
