@@ -145,22 +145,22 @@ Frameworks and Tools
 
 ### Icon
 
-Icon was from https://fontawesome.com/
+* Icon was from https://fontawesome.com/
 
 ### Code
 
-I used The Code Institute Template.
+* I used The Code Institute Template.
 
-I used resources on W3Schools and Stack Overflow.
+* I used resources on W3Schools and Stack Overflow.
 
-I used tutorials from NullX, Ania Kubów, Coding Artist and CodingNepal all on youtube.
+* I used tutorials from Ania Kubów, NullX, Coding Artist and CodingNepal all on youtube.
 
-I used learnt code from my first project.
+* I used learnt code from my first project.
 
 ### Font
 
-All fonts came from Google Fonts https://fonts.google.com/
+* All fonts came from Google Fonts https://fonts.google.com/
 
 ### Icons
 
-All icons came form Font Awesome https://fontawesome.com/
+* All icons came form Font Awesome https://fontawesome.com/
