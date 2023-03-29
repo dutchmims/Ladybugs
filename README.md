@@ -27,6 +27,14 @@ Ladybugs is a fun, addictive and interactive memory card game where the user's a
 
 # Features
 
+## Header
+
+The header is simply the name of the website and game.
+
+## Footer
+
+The footer has 4 social media links (Facebook, Twitter, Youtube and Instagram. It also has the website copyright at the bottom left.
+
 
 # UX/UI
 
@@ -57,10 +65,9 @@ Ladybugs is a fun, addictive and interactive memory card game where the user's a
 <img width="1278" alt="Screenshot 2023-03-29 at 12 35 39" src="https://user-images.githubusercontent.com/119881922/228525777-881b5cd5-0f4d-4cdc-a86c-071a64e95372.png">
 
 
-
 # Deployment
 
-###Version Control
+### Version Control
 * From the Gitpod terminal use "git add ." which tells git you would like to make changes/updates to the files.
 * Then use "git commit -m " with a comment, this will commit the changes and update the files.
 * Then using the "git push" command this will push the committed changes to your GitHub repository.
