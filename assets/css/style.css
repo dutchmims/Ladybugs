@@ -118,3 +118,13 @@ footer {
       }
 
     }
+
+    /* style for 404 Page */
+
+    .errorpage {
+      display:flex;
+      flex-direction: column;
+      text-align: center;
+      justify-content: center;
+    }
+
