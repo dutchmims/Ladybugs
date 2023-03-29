@@ -35,14 +35,54 @@ The header is simply the name of the website and game.
 
 The footer has 4 social media links (Facebook, Twitter, Youtube and Instagram. It also has the website copyright at the bottom left.
 
-
 # UX/UI
+
+### Website Goals
+
+* As the website owner
+1. I want to gain as many views as possible.
+2. I want to gain as many customers (members) as possible.
+3. I want to provide as much informative information as possible to gain peoples interest in our service.
+4. I want to give members something back when they introduce a friend.
+
+### User Goals
+
+* As a first time visitor
+1. I want to easily understand the product and whats being offered.
+2. I want to understand the company and thier ethics.
+3. I want to know how much each product (membership) costs.
+4. I want to ask questions and learn about different options (memberships).
+5. I want to view the website on all different media devices.
+
+* As a returning visitor
+1. I want to navigate quickly to get what I came for.
+2. I want to be able to contact the company.
+3. I want to know what other options (memberships) are available
+
+Wireframe design
 
 
 # Design
 
-
 # Technologies Used
+
+### Languages
+
+1. HTML was used to create and design the website.
+4. CSS was to add style the website and make it look visually appealing.
+5. JavaScript was used to produce interactivity in the website.
+
+Frameworks and Tools
+
+1. Github was the version control used.
+2. Gitpod was the IDE used.
+3. Google Fonts was used for the fonts.
+4. Font Awesome was used for social media icons
+5. Figma was used to produce wireframes.
+6. Fontawesome was used for the social media icons, map link and the arrow back to top.
+7. Validator.w3.org for the validation of all the HTML
+8. Validator.w3.org for or the validation of all the CSS
+9. jshint.com for or the validation of all the JavaScript
 
 
 # Testing
@@ -69,7 +109,7 @@ The footer has 4 social media links (Facebook, Twitter, Youtube and Instagram. I
 
 ### Version Control Software
 
-Github is where I produce my code
+* Github within Git
 1. From my profile I chose a new repository and its then created with or without a template. It just needs to be named. 
 2. Once your repository is built and loaded, you click on Gitpod to phyically build your code. You use the file directory to create files and folders for your site.
 3. Once code has been created you need the to type "git add ." in the Gitpod terminal to add new code.
@@ -78,7 +118,7 @@ Github is where I produce my code
 
 ### Deployment
 
-The site was deployed to GitHub pages. The steps taken are as follows:
+* The site was deployed to GitHub pages. The steps taken are as follows:
 1. Log in to Github
 2. In the repository "Ladybugs", navigate to the settings tab from the top menu.
 3. In settings select pages.
