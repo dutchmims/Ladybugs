@@ -126,7 +126,7 @@ The footer has 4 social media links, Facebook, Twitter, Youtube and Instagram. I
 ### Unfixed Bugs
 * There are no bugs that I am aware of.
 
-# Testing
+# User Testing & Responsiveness 
 
 * The website was tested rigorously on Mozilla Firefox through the design process. 
 
@@ -135,7 +135,7 @@ The footer has 4 social media links, Facebook, Twitter, Youtube and Instagram. I
 * The website was tested on numerous sized screens including iphone 12, 13” MacBook and an ipad and responded as expected on all devices.
 
 
-# Deployment and 
+# Deployment 
 
 ### Version Control 
 
