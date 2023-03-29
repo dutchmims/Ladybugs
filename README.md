@@ -123,10 +123,21 @@ The footer has 4 social media links, Facebook, Twitter, Youtube and Instagram. I
 
 <img width="647" alt="Screenshot 2023-03-29 at 23 12 41" src="https://user-images.githubusercontent.com/119881922/228679863-4813174c-2123-4b29-b49e-82124a6fe611.png">
 
+### Unfixed Bugs
+* There are no bugs that I am aware of.
 
-# Deployment
+# Testing
 
-### Version Control Software
+* The website was tested rigorously on Mozilla Firefox through the design process. 
+
+* The website was tested on Chrome and Safari browsers with no issues and performing as expected
+
+* The website was tested on numerous sized screens including iphone 12, 13” MacBook and an ipad and responded as expected on all devices.
+
+
+# Deployment and 
+
+### Version Control 
 
 * Github within Git
 1. From my profile I chose a new repository and its then created with or without a template. It just needs to be named. 
