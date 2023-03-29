@@ -22,18 +22,17 @@ Ladybugs (https://dutchmims.github.io/Ladybugs/)
 8. Sources 
 
 # Project Overview
-Ladybugs is a fun, addictive and interactive memory card game where the user's aim is to find all matching ladybugs as quick as possible. It is suitable for any age. It's easy to pick up and play without instructions.
-
+To produce and a fun, addictive and interactive memory card game where the user's aim is to find all matching ladybugs as quick as possible. It is suitable for any age. It's easy to pick up and play without instructions.
 
 # Features
 
 ## Header
 
-The header is simply the name of the website and game.
+The header is simply the name of the website and game. It also hosts the score.
 
 ## Footer
 
-The footer has 4 social media links (Facebook, Twitter, Youtube and Instagram. It also has the website copyright at the bottom left.
+The footer has 4 social media links, Facebook, Twitter, Youtube and Instagram. It also has the website copyright at the bottom left.
 
 # UX/UI
 
@@ -41,8 +40,8 @@ The footer has 4 social media links (Facebook, Twitter, Youtube and Instagram. I
 
 * As the website owner
 1. I want to gain as many views as possible.
-2. I want to gain as many customers (members) as possible.
-3. I want to provide as much informative information as possible to gain peoples interest in our service.
+2. I want to gain as many players as possible.
+3. I want to users to enjoy the game and recommend it to others.
 4. I want to give members something back when they introduce a friend.
 
 ### User Goals
