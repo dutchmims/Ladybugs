@@ -42,26 +42,37 @@ The footer has 4 social media links, Facebook, Twitter, Youtube and Instagram. I
 1. I want to gain as many views as possible.
 2. I want to gain as many players as possible.
 3. I want to users to enjoy the game and recommend it to others.
-4. I want to give members something back when they introduce a friend.
 
 ### User Goals
 
 * As a first time visitor
-1. I want to easily understand the product and whats being offered.
-2. I want to understand the company and thier ethics.
-3. I want to know how much each product (membership) costs.
-4. I want to ask questions and learn about different options (memberships).
-5. I want to view the website on all different media devices.
+1. I want to easily understand the game and be able to pick it up and play.
+2. I want to paly the game on all different media devices.
+3. I want to know what other games are made by this company.
 
 * As a returning visitor
-1. I want to navigate quickly to get what I came for.
-2. I want to be able to contact the company.
-3. I want to know what other options (memberships) are available
+1. I want to navigate quickly and play the game without interuption.
+2. I want to find out what other games the company makes.
 
-Wireframe design
+# Wireframe design
 
+<img width="753" alt="Screenshot 2023-03-29 at 19 24 34" src="https://user-images.githubusercontent.com/119881922/228667506-252cd836-e099-4969-abca-fc735a32f547.png">
+
+<img width="515" alt="Screenshot 2023-03-29 at 19 24 21" src="https://user-images.githubusercontent.com/119881922/228667518-ab4f4f1d-638d-4381-aede-268a6d12c362.png">
+
+<img width="311" alt="Screenshot 2023-03-29 at 19 24 14" src="https://user-images.githubusercontent.com/119881922/228667571-249aa98b-2c03-4615-abc7-a88f5d9ca279.png">
+
+<img width="244" alt="Screenshot 2023-03-29 at 19 24 03" src="https://user-images.githubusercontent.com/119881922/228667648-78ec2711-c4f4-47a9-a221-e6769eb617dc.png">
 
 # Design
+
+<img width="1269" alt="Screenshot 2023-03-29 at 12 37 32" src="https://user-images.githubusercontent.com/119881922/228667724-55b91745-4943-408f-8ad0-0613bf7aa517.png">
+
+<img width="398" alt="Screenshot 2023-03-29 at 12 37 38" src="https://user-images.githubusercontent.com/119881922/228667743-630f69e2-3a59-49db-a61d-a7e6da18f7a8.png">
+
+<img width="1272" alt="Screenshot 2023-03-29 at 12 37 48" src="https://user-images.githubusercontent.com/119881922/228667757-c7e46f88-b1bc-48ff-b58e-fd29184b4efe.png">
+
+<img width="1260" alt="Screenshot 2023-03-29 at 19 21 15" src="https://user-images.githubusercontent.com/119881922/228667773-1c73bb00-83bd-44df-861e-938ffefb3289.png">
 
 # Technologies Used
 
