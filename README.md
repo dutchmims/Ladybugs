@@ -86,3 +86,7 @@ The site was deployed to GitHub pages. The steps taken are as follows:
 5. The page is refreshed and you will then see the URL of your website.
 
 # Sources
+
+## Citation of Sources 
+
+### Images 
