@@ -39,17 +39,17 @@ Ladybugs is a fun, addictive and interactive memory card game where the user's a
 
 # Testing
 
-1. HTML Validation
+1. # HTML Validation
 * Validator.w3.org was used to test the HTML code of the project and found no errors. 
 
 <img width="1272" alt="Screenshot 2023-03-27 at 22 35 13" src="https://user-images.githubusercontent.com/119881922/228525629-e75c40c6-1e81-4c7d-8c9b-6a60026037cd.png">
 
-2. CSS Validation
+2. ## CSS Validation
 * Validator.w3.org was used to test the CSS code of the project and found no errors. 
 
 <img width="1277" alt="Screenshot 2023-03-27 at 22 35 45" src="https://user-images.githubusercontent.com/119881922/228525683-cff5490e-da12-467b-b51b-163e09ff7ecc.png">
 
-3. JavaScript Validation
+3. ### JavaScript Validation
 * jshint.com was used to test the JavaScript code of the project and found no errors. 
 
 <img width="1275" alt="Screenshot 2023-03-29 at 12 35 26" src="https://user-images.githubusercontent.com/119881922/228525764-8214a717-dc87-4976-a124-a12d3516633f.png">
