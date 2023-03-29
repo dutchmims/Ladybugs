@@ -67,12 +67,17 @@ The footer has 4 social media links (Facebook, Twitter, Youtube and Instagram. I
 
 # Deployment
 
-### Version Control
-* From the Gitpod terminal use "git add ." which tells git you would like to make changes/updates to the files.
-* Then use "git commit -m " with a comment, this will commit the changes and update the files.
-* Then using the "git push" command this will push the committed changes to your GitHub repository.
+### Version Control Software
 
-Deployment
+Github is where I produce my code
+1. From my profile I chose a new repository and its then created with or without a template. It just needs to be named. 
+2. Once your repository is built and loaded, you click on Gitpod to phyically build your code. You use the file directory to create files and folders for your site.
+3. Once code has been created you need the to type "git add ." in the Gitpod terminal to add new code.
+4. Then you need to commit the new code by typing  "git commit -m" including your comments of what you have just saved
+5. Then you need to type "git push", this command will push your committed changes to your GitHub repository.
+
+### Deployment
+
 The site was deployed to GitHub pages. The steps taken are as follows:
 1. Log in to Github
 2. In the repository "Ladybugs", navigate to the settings tab from the top menu.
