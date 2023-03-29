@@ -78,11 +78,11 @@ The footer has 4 social media links, Facebook, Twitter, Youtube and Instagram. I
 
 ### Languages
 
-1. HTML was used to create and design the website.
-4. CSS was to add style the website and make it look visually appealing.
-5. JavaScript was used to produce interactivity in the website.
+1. HTML was used to create and design the website. 
+2. CSS was to add style the website and make it look visually appealing.
+3. JavaScript was used to produce interactivity in the website.
 
-Frameworks and Tools
+### Frameworks and Tools
 
 1. Github was the version control used.
 2. Gitpod was the IDE used.
@@ -93,7 +93,6 @@ Frameworks and Tools
 7. Validator.w3.org for the validation of all the HTML
 8. Validator.w3.org for or the validation of all the CSS
 9. jshint.com for or the validation of all the JavaScript
-
 
 # Testing
 
@@ -113,6 +112,16 @@ Frameworks and Tools
 <img width="1275" alt="Screenshot 2023-03-29 at 12 35 26" src="https://user-images.githubusercontent.com/119881922/228525764-8214a717-dc87-4976-a124-a12d3516633f.png">
 
 <img width="1278" alt="Screenshot 2023-03-29 at 12 35 39" src="https://user-images.githubusercontent.com/119881922/228525777-881b5cd5-0f4d-4cdc-a86c-071a64e95372.png">
+
+### Lighthouse Reports
+
+# Desktop
+
+<img width="651" alt="Screenshot 2023-03-29 at 23 11 43" src="https://user-images.githubusercontent.com/119881922/228679794-001c7838-d08d-48af-9d99-61cc111030fe.png">
+
+# Mobile
+
+<img width="647" alt="Screenshot 2023-03-29 at 23 12 41" src="https://user-images.githubusercontent.com/119881922/228679863-4813174c-2123-4b29-b49e-82124a6fe611.png">
 
 
 # Deployment
