@@ -130,3 +130,17 @@ Frameworks and Tools
 ## Citation of Sources 
 
 ### Images 
+
+* All images used were taken from Pixabay https://pixabay.com/ and is license free under the Pixabay licensing condtions.
+
+### Icon
+
+Icon was from https://fontawesome.com/
+
+### Code
+
+### Font
+
+All font came from Google Fonts https://fonts.google.com/
+
+### Icons
