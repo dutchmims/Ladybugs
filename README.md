@@ -113,13 +113,13 @@ The footer has 4 social media links, Facebook, Twitter, Youtube and Instagram. I
 
 <img width="1278" alt="Screenshot 2023-03-29 at 12 35 39" src="https://user-images.githubusercontent.com/119881922/228525777-881b5cd5-0f4d-4cdc-a86c-071a64e95372.png">
 
-### Lighthouse Reports
+# Lighthouse Reports
 
-# Desktop
+### Desktop
 
 <img width="651" alt="Screenshot 2023-03-29 at 23 11 43" src="https://user-images.githubusercontent.com/119881922/228679794-001c7838-d08d-48af-9d99-61cc111030fe.png">
 
-# Mobile
+### Mobile
 
 <img width="647" alt="Screenshot 2023-03-29 at 23 12 41" src="https://user-images.githubusercontent.com/119881922/228679863-4813174c-2123-4b29-b49e-82124a6fe611.png">
 
