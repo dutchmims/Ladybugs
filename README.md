@@ -95,6 +95,22 @@ The footer has 4 social media links, Facebook, Twitter, Youtube and Instagram. I
 
 # Design
 
+### Colours
+
+* The colours that I chose for the website are as follows.  A soft pink rgb(245, 201, 235) for the background colour of the home page and play area and a grey hex #686868 for the title, score, container border, font, back of cards, border of cards face up and social media icons.
+
+### Main Background Colour
+
+* The background colour used is a soft pink rgb(245, 201, 235) as it is easy on the eye, playful, bright and gives an overall fell of ease and accessability.
+
+### Font Colour
+
+* The font colour used is a grey hex #686868 as it contrasts nicely with the background colour.
+
+### Font
+
+* The font I chose was Allerta Stencil as it is easy to look at, its also quite a playful/retrofont which lends itself well for this website/game.
+
 <img width="1269" alt="Screenshot 2023-03-29 at 12 37 32" src="https://user-images.githubusercontent.com/119881922/228667724-55b91745-4943-408f-8ad0-0613bf7aa517.png">
 
 <img width="398" alt="Screenshot 2023-03-29 at 12 37 38" src="https://user-images.githubusercontent.com/119881922/228667743-630f69e2-3a59-49db-a61d-a7e6da18f7a8.png">
