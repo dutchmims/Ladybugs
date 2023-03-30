@@ -1,7 +1,6 @@
 @import url(https://fonts.googleapis.com/css2?family=Allerta+Stencil&display=swap);
 
 /* Global style */
-
 * {
     padding: 0;
     margin: 0;
@@ -27,7 +26,6 @@
   }
 
   /* Game layout */
-  
   .score {
     margin-top: 10px;
   }
@@ -85,7 +83,6 @@
   }
 
 /* footer */
-
 footer {
   height: 150px;
 }
@@ -106,7 +103,6 @@ footer {
 }
 
 /* Media queries */
-
   @media screen and (min-width: 770px) {
     .head {
         max-width: 760px;
