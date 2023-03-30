@@ -30,9 +30,13 @@ To produce and a fun, addictive and interactive memory card game where the user'
 
 The header is simply the name of the website and game. It also hosts the score.
 
+<img width="1269" alt="Screenshot 2023-03-29 at 12 37 32" src="https://user-images.githubusercontent.com/119881922/228769874-1186698b-5237-4866-bd69-d37b94a26ea8.png">
+
 ## Footer
 
 The footer has 4 social media links, Facebook, Twitter, Youtube and Instagram. It also has the website copyright at the bottom left.
+
+<img width="1280" alt="Screenshot 2023-03-30 at 08 57 28" src="https://user-images.githubusercontent.com/119881922/228769941-275926dd-6bb4-4b04-91e7-47af34dd04c0.png">
 
 # UX/UI
 
