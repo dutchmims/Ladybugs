@@ -45,6 +45,19 @@ The header is simply the name of the website and game. It also hosts the score.
 
 ## Ladybugs
 
+<img width="669" alt="Screenshot 2023-03-30 at 09 49 34" src="https://user-images.githubusercontent.com/119881922/228782864-233221f0-2801-40d3-b164-66c0a6a81cbf.png">
+
+<img width="672" alt="Screenshot 2023-03-30 at 09 49 49" src="https://user-images.githubusercontent.com/119881922/228782888-be80b608-adfb-4e89-a615-aadb655b0642.png">
+
+<img width="667" alt="Screenshot 2023-03-30 at 09 50 06" src="https://user-images.githubusercontent.com/119881922/228782898-b644b1f2-c803-4885-88be-93d51d6a1175.png">
+
+<img width="732" alt="Screenshot 2023-03-30 at 09 50 22" src="https://user-images.githubusercontent.com/119881922/228782910-e77bbc91-8c92-4e69-a0ee-c2dd585e7827.png">
+
+<img width="717" alt="Screenshot 2023-03-30 at 09 50 38" src="https://user-images.githubusercontent.com/119881922/228782915-8e487034-e483-4ed3-b856-21eef170a121.png">
+
+<img width="660" alt="Screenshot 2023-03-30 at 09 50 55" src="https://user-images.githubusercontent.com/119881922/228782920-6d1bb56f-5ce3-47f9-b5df-dae51ef3123c.png">
+
+
 ![1](https://user-images.githubusercontent.com/119881922/228779263-e7350591-5349-4a1c-aa9d-1de51ad633ac.png)
 
 ![3](https://user-images.githubusercontent.com/119881922/228779294-a00397b8-0b4c-4bb2-8b6c-109193b29198.png)
