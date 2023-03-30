@@ -6,7 +6,7 @@
 
 <img width="1242" alt="Screenshot 2023-03-30 at 11 14 26" src="https://user-images.githubusercontent.com/119881922/228805721-4b5431a0-2f36-489c-be04-bd5d4c5b08fa.png">
 
-<img width="1280" alt="Screenshot 2023-03-30 at 11 15 28" src="https://user-images.githubusercontent.com/119881922/228805776-2ca8533f-c141-4dc8-9d85-174d37226c17.png">
+<img width="970" alt="Screenshot 2023-03-30 at 11 15 58" src="https://user-images.githubusercontent.com/119881922/228806099-1e853494-4350-464c-9e3c-8cb2f30f2e53.png">
 
 Ladybugs (https://dutchmims.github.io/Ladybugs/)
 
@@ -30,7 +30,9 @@ To produce and a fun, addictive and interactive memory card game where the user'
 
 The header is simply the name of the website and game. It also hosts the score.
 
-<img width="1269" alt="Screenshot 2023-03-29 at 12 37 32" src="https://user-images.githubusercontent.com/119881922/228769874-1186698b-5237-4866-bd69-d37b94a26ea8.png">
+<img width="1280" alt="Screenshot 2023-03-30 at 11 02 00" src="https://user-images.githubusercontent.com/119881922/228806331-38fb636a-b56d-4369-a37d-3188fb3b57f1.png">
+
+<img width="406" alt="Screenshot 2023-03-30 at 11 02 08" src="https://user-images.githubusercontent.com/119881922/228806470-6abd5532-e674-44d1-94cd-5269cc0d15ee.png">
 
 ## Game Area
 
@@ -38,10 +40,15 @@ The header is simply the name of the website and game. It also hosts the score.
 * 12 cards (6 matching pairs of ladybugs). 
 * Cards are shuffled and are shown face down.
 * Once clicked, the card is revealed. A second card is then chosen. Matching pairs stay face up. Non-matching pairs get put back face down.
-    
-<img width="1209" alt="Screenshot 2023-03-30 at 09 08 57" src="https://user-images.githubusercontent.com/119881922/228777543-cca870c8-1ebe-4444-b0de-d837f8257ff0.png">
-    
-<img width="903" alt="Screenshot 2023-03-30 at 09 10 47" src="https://user-images.githubusercontent.com/119881922/228777555-ccf59072-6839-4769-b8e7-3f00241c276a.png">
+
+<img width="1271" alt="Screenshot 2023-03-30 at 11 00 55" src="https://user-images.githubusercontent.com/119881922/228806693-5ffbdddf-0597-402b-8de5-aff8e0ef1522.png">
+
+<img width="1280" alt="Screenshot 2023-03-30 at 11 01 25" src="https://user-images.githubusercontent.com/119881922/228806700-c239759c-22d4-483d-afab-cd8b984726c6.png">
+
+<img width="977" alt="Screenshot 2023-03-30 at 11 04 07" src="https://user-images.githubusercontent.com/119881922/228807447-1681914c-999a-47d8-b93d-e968e481fb00.png">
+
+<img width="979" alt="Screenshot 2023-03-30 at 11 05 17" src="https://user-images.githubusercontent.com/119881922/228807460-b334c62c-0d4a-4cdb-a92e-1c52c54f46d8.png">
+
 
 ## Ladybugs
 
@@ -61,7 +68,7 @@ The header is simply the name of the website and game. It also hosts the score.
 
 The footer has 4 social media links, Facebook, Twitter, Youtube and Instagram. It also has the website copyright at the bottom left.
 
-<img width="1280" alt="Screenshot 2023-03-30 at 08 57 28" src="https://user-images.githubusercontent.com/119881922/228769941-275926dd-6bb4-4b04-91e7-47af34dd04c0.png">
+<img width="1280" alt="Screenshot 2023-03-30 at 11 01 48" src="https://user-images.githubusercontent.com/119881922/228807715-1176d35f-b877-403c-949b-6d4aebe4d128.png">
 
 # UX/UI
 
@@ -99,6 +106,10 @@ The footer has 4 social media links, Facebook, Twitter, Youtube and Instagram. I
 
 * The colours that I chose for the website are as follows.  A soft pink rgb(245, 201, 235) for the background colour of the home page and play area and a grey hex #686868 for the title, score, container border, font, back of cards, border of cards face up and social media icons.
 
+<img width="198" alt="Screenshot 2023-03-30 at 10 08 29" src="https://user-images.githubusercontent.com/119881922/228807813-74b6f9ed-6632-40ff-8ed2-818885231079.png">
+
+<img width="122" alt="Screenshot 2023-03-30 at 10 08 48" src="https://user-images.githubusercontent.com/119881922/228807819-62be6c66-e06b-4cff-aba2-5bafc24690d7.png">
+
 ### Main Background Colour
 
 * The background colour used is a soft pink rgb(245, 201, 235) as it is easy on the eye, playful, bright and gives an overall fell of ease and accessability.
@@ -111,13 +122,11 @@ The footer has 4 social media links, Facebook, Twitter, Youtube and Instagram. I
 
 * The font I chose was Allerta Stencil as it is easy to look at, its also quite a playful/retrofont which lends itself well for this website/game.
 
-<img width="1269" alt="Screenshot 2023-03-29 at 12 37 32" src="https://user-images.githubusercontent.com/119881922/228667724-55b91745-4943-408f-8ad0-0613bf7aa517.png">
+<img width="1271" alt="Screenshot 2023-03-30 at 11 00 55" src="https://user-images.githubusercontent.com/119881922/228808060-6bf5592c-dff5-4c4a-9394-6d3c2ad294ed.png">
 
-<img width="398" alt="Screenshot 2023-03-29 at 12 37 38" src="https://user-images.githubusercontent.com/119881922/228667743-630f69e2-3a59-49db-a61d-a7e6da18f7a8.png">
+<img width="1280" alt="Screenshot 2023-03-30 at 11 02 00" src="https://user-images.githubusercontent.com/119881922/228808085-c3253c8c-a610-4fd1-a960-6d0f20764541.png">
 
-<img width="1272" alt="Screenshot 2023-03-29 at 12 37 48" src="https://user-images.githubusercontent.com/119881922/228667757-c7e46f88-b1bc-48ff-b58e-fd29184b4efe.png">
-
-<img width="1260" alt="Screenshot 2023-03-29 at 19 21 15" src="https://user-images.githubusercontent.com/119881922/228667773-1c73bb00-83bd-44df-861e-938ffefb3289.png">
+<img width="406" alt="Screenshot 2023-03-30 at 11 02 08" src="https://user-images.githubusercontent.com/119881922/228808100-68739a04-72c6-49c4-9c6e-e33640d0c5b7.png">
 
 # Technologies Used
 
