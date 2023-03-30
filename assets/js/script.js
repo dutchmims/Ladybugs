@@ -1,9 +1,16 @@
+// retrieve card (cell) element
 const card = document.querySelectorAll('.cell');
+
+// retrieve front element
 const front = document.querySelectorAll('.front');
+
+// retrieve container element
 const container = document.querySelector('.container');
+
+// retrieve score element
 const score = document.querySelector('.score span');
 
-
+// shuffle cards 
 suffleImage();
 clicking();
 function suffleImage() {
@@ -23,6 +30,7 @@ function clicking() {
       front[i].classList.remove('show');
     }, 2000);
 
+// count moves
     card[i].addEventListener('click', () => {
       front[i].classList.add('flip');
       const filppedCard = document.querySelectorAll('.flip');
@@ -40,6 +48,7 @@ function clicking() {
   }
 }
 
+// find matching cards
 function match(cardOne, cardTwo) {
   if (cardOne.dataset.index == cardTwo.dataset.index) {
     score.innerHTML = parseInt(score.innerHTML) + 1;

@@ -1,5 +1,7 @@
 @import url(https://fonts.googleapis.com/css2?family=Allerta+Stencil&display=swap);
 
+/* Global style */
+
 * {
     padding: 0;
     margin: 0;
@@ -23,6 +25,8 @@
     font-family: 'Allerta Stencil', sans-serif;
     color: #686868;
   }
+
+  /* Game layout */
   
   .score {
     margin-top: 10px;
