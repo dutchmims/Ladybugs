@@ -32,6 +32,31 @@ The header is simply the name of the website and game. It also hosts the score.
 
 <img width="1269" alt="Screenshot 2023-03-29 at 12 37 32" src="https://user-images.githubusercontent.com/119881922/228769874-1186698b-5237-4866-bd69-d37b94a26ea8.png">
 
+## Game Area
+
+* The main feature of the site.
+* 12 cards (6 matching pairs of ladybugs). 
+* Cards are shuffled and are shown face down.
+* Once click, the card is revealed. A second card is then chosed. Matching pairs stay face up. Non-matching pairs get put back face down.
+    
+<img width="1209" alt="Screenshot 2023-03-30 at 09 08 57" src="https://user-images.githubusercontent.com/119881922/228777543-cca870c8-1ebe-4444-b0de-d837f8257ff0.png">
+    
+<img width="903" alt="Screenshot 2023-03-30 at 09 10 47" src="https://user-images.githubusercontent.com/119881922/228777555-ccf59072-6839-4769-b8e7-3f00241c276a.png">
+
+## Ladybugs
+
+![1](https://user-images.githubusercontent.com/119881922/228779263-e7350591-5349-4a1c-aa9d-1de51ad633ac.png)
+
+![3](https://user-images.githubusercontent.com/119881922/228779294-a00397b8-0b4c-4bb2-8b6c-109193b29198.png)
+
+![5](https://user-images.githubusercontent.com/119881922/228779315-5a16159a-8550-4373-a424-87f5f4c7cc50.png)
+
+![7](https://user-images.githubusercontent.com/119881922/228779353-afa2bc07-1fff-4c98-a451-105723367d88.png)
+
+![9](https://user-images.githubusercontent.com/119881922/228779372-13b13493-248c-4807-9f36-490f5d24ad43.png)
+
+![11](https://user-images.githubusercontent.com/119881922/228779404-ed114965-f0e4-479a-a358-7670217fdb48.png)
+
 ## Footer
 
 The footer has 4 social media links, Facebook, Twitter, Youtube and Instagram. It also has the website copyright at the bottom left.
