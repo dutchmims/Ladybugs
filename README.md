@@ -26,7 +26,7 @@ To produce and a fun, addictive and interactive memory card game where the user'
 
 # Features
 
-## Header
+# Header
 
 The header is simply the name of the website and game. It also hosts the score.
 
@@ -34,7 +34,7 @@ The header is simply the name of the website and game. It also hosts the score.
 
 <img width="406" alt="Screenshot 2023-03-30 at 11 02 08" src="https://user-images.githubusercontent.com/119881922/228806470-6abd5532-e674-44d1-94cd-5269cc0d15ee.png">
 
-## Game Area
+# Game Area
 
 * The main feature of the site.
 * 12 cards (6 matching pairs of ladybugs). 
@@ -49,8 +49,7 @@ The header is simply the name of the website and game. It also hosts the score.
 
 <img width="979" alt="Screenshot 2023-03-30 at 11 05 17" src="https://user-images.githubusercontent.com/119881922/228807460-b334c62c-0d4a-4cdb-a92e-1c52c54f46d8.png">
 
-
-## Ladybugs
+# Ladybugs
 
 ![1](https://user-images.githubusercontent.com/119881922/228779263-e7350591-5349-4a1c-aa9d-1de51ad633ac.png)
 
@@ -64,7 +63,7 @@ The header is simply the name of the website and game. It also hosts the score.
 
 ![11](https://user-images.githubusercontent.com/119881922/228779404-ed114965-f0e4-479a-a358-7670217fdb48.png)
 
-## Footer
+# Footer
 
 The footer has 4 social media links, Facebook, Twitter, Youtube and Instagram. It also has the website copyright at the bottom left.
 
@@ -72,14 +71,14 @@ The footer has 4 social media links, Facebook, Twitter, Youtube and Instagram. I
 
 # UX/UI
 
-### Website Goals
+## Website Goals
 
 * As the website owner
 1. I want to gain as many views as possible.
 2. I want to gain as many players as possible.
 3. I want to users to enjoy the game and recommend it to others.
 
-### User Goals
+## User Goals
 
 * As a first time visitor
 1. I want to easily understand the game and be able to pick it up and play.
@@ -102,7 +101,7 @@ The footer has 4 social media links, Facebook, Twitter, Youtube and Instagram. I
 
 # Design
 
-### Colours
+## Colours
 
 * The colours that I chose for the website are as follows.  A soft pink rgb(245, 201, 235) for the background colour of the home page and play area and a grey hex #686868 for the title, score, container border, font, back of cards, border of cards face up and social media icons.
 
@@ -110,15 +109,15 @@ The footer has 4 social media links, Facebook, Twitter, Youtube and Instagram. I
 
 <img width="122" alt="Screenshot 2023-03-30 at 10 08 48" src="https://user-images.githubusercontent.com/119881922/228807819-62be6c66-e06b-4cff-aba2-5bafc24690d7.png">
 
-### Main Background Colour
+## Main Background Colour
 
 * The background colour used is a soft pink rgb(245, 201, 235) as it is easy on the eye, playful, bright and gives an overall fell of ease and accessability.
 
-### Font Colour
+## Font Colour
 
 * The font colour used is a grey hex #686868 as it contrasts nicely with the background colour.
 
-### Font
+## Font
 
 * The font I chose was Allerta Stencil as it is easy to look at, its also quite a playful/retrofont which lends itself well for this website/game.
 
@@ -130,13 +129,13 @@ The footer has 4 social media links, Facebook, Twitter, Youtube and Instagram. I
 
 # Technologies Used
 
-### Languages
+## Languages
 
 1. HTML was used to create and design the website. 
 2. CSS was to add style the website and make it look visually appealing.
 3. JavaScript was used to produce interactivity in the website.
 
-### Frameworks and Tools
+## Frameworks and Tools
 
 1. Github was the version control used.
 2. Gitpod was the IDE used.
@@ -150,17 +149,17 @@ The footer has 4 social media links, Facebook, Twitter, Youtube and Instagram. I
 
 # Testing
 
-### 1. HTML Validation
+## 1. HTML Validation
 * Validator.w3.org was used to test the HTML code of the project and found no errors. 
 
 <img width="1272" alt="Screenshot 2023-03-27 at 22 35 13" src="https://user-images.githubusercontent.com/119881922/228525629-e75c40c6-1e81-4c7d-8c9b-6a60026037cd.png">
 
-### 2. CSS Validation
+## 2. CSS Validation
 * Validator.w3.org was used to test the CSS code of the project and found no errors. 
 
 <img width="1277" alt="Screenshot 2023-03-27 at 22 35 45" src="https://user-images.githubusercontent.com/119881922/228525683-cff5490e-da12-467b-b51b-163e09ff7ecc.png">
 
-### 3. JavaScript Validation
+## 3. JavaScript Validation
 * jshint.com was used to test the JavaScript code of the project and found no errors. 
 
 <img width="1275" alt="Screenshot 2023-03-29 at 12 35 26" src="https://user-images.githubusercontent.com/119881922/228525764-8214a717-dc87-4976-a124-a12d3516633f.png">
@@ -169,15 +168,15 @@ The footer has 4 social media links, Facebook, Twitter, Youtube and Instagram. I
 
 # Lighthouse Reports
 
-### Desktop
+## Desktop
 
 <img width="651" alt="Screenshot 2023-03-29 at 23 11 43" src="https://user-images.githubusercontent.com/119881922/228679794-001c7838-d08d-48af-9d99-61cc111030fe.png">
 
-### Mobile
+## Mobile
 
 <img width="647" alt="Screenshot 2023-03-29 at 23 12 41" src="https://user-images.githubusercontent.com/119881922/228679863-4813174c-2123-4b29-b49e-82124a6fe611.png">
 
-### Unfixed Bugs
+## Unfixed Bugs
 * There are no bugs that I am aware of.
 
 # User Testing & Responsiveness 
@@ -190,7 +189,7 @@ The footer has 4 social media links, Facebook, Twitter, Youtube and Instagram. I
 
 # Deployment 
 
-### Version Control 
+## Version Control 
 
 * Github within Git
 1. From my profile I chose a new repository and its then created with or without a template. It just needs to be named. 
@@ -199,7 +198,7 @@ The footer has 4 social media links, Facebook, Twitter, Youtube and Instagram. I
 4. Then you need to commit the new code by typing  "git commit -m" including your comments of what you have just saved.
 5. Then you need to type "git push", this command will push your committed changes to your GitHub repository.
 
-### Deployment
+## Deployment
 
 * The site was deployed to GitHub pages. The steps taken are as follows:
 1. Log in to Github.
@@ -212,15 +211,15 @@ The footer has 4 social media links, Facebook, Twitter, Youtube and Instagram. I
 
 ## Citation of Sources 
 
-### Images 
+## Images 
 
 * All images used were taken from Pixabay https://pixabay.com/ and are license free under the Pixabay licensing condtions.
 
-### Icon
+## Icon
 
 * Icons came form Font Awesome, https://fontawesome.com/ and Favicon, https://favicon.io/
 
-### Code
+## Code
 
 * I used The Code Institute Template.
 
@@ -230,7 +229,7 @@ The footer has 4 social media links, Facebook, Twitter, Youtube and Instagram. I
 
 * I used learnt code from my first project.
 
-### Font
+## Font
 
 * All fonts came from Google Fonts https://fonts.google.com/
 
