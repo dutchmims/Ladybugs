@@ -4,9 +4,9 @@
 
 ### README.md by James Healy
 
-<img width="994" alt="Screenshot 2023-03-28 at 13 53 34" src="https://user-images.githubusercontent.com/119881922/228343465-7d7349c9-0f01-47c6-8ec7-424fc8dcb5a5.png">
+<img width="1242" alt="Screenshot 2023-03-30 at 11 14 26" src="https://user-images.githubusercontent.com/119881922/228805721-4b5431a0-2f36-489c-be04-bd5d4c5b08fa.png">
 
-<img width="806" alt="Screenshot 2023-03-28 at 19 29 39" src="https://user-images.githubusercontent.com/119881922/228343477-ddb3db66-446c-4944-90b6-6ef57fc83e65.png">
+<img width="1280" alt="Screenshot 2023-03-30 at 11 15 28" src="https://user-images.githubusercontent.com/119881922/228805776-2ca8533f-c141-4dc8-9d85-174d37226c17.png">
 
 Ladybugs (https://dutchmims.github.io/Ladybugs/)
 
