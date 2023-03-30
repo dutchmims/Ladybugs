@@ -138,7 +138,6 @@ The footer has 4 social media links, Facebook, Twitter, Youtube and Instagram. I
 
 * The website was tested on numerous sized screens including iphone 12, 13” MacBook and an ipad and responded as expected on all devices.
 
-
 # Deployment 
 
 ### Version Control 
@@ -165,11 +164,11 @@ The footer has 4 social media links, Facebook, Twitter, Youtube and Instagram. I
 
 ### Images 
 
-* All images used were taken from Pixabay https://pixabay.com/ and is license free under the Pixabay licensing condtions.
+* All images used were taken from Pixabay https://pixabay.com/ and are license free under the Pixabay licensing condtions.
 
 ### Icon
 
-* Icon was from https://fontawesome.com/
+* Icons came form Font Awesome, https://fontawesome.com/ and Favicon, https://favicon.io/
 
 ### Code
 
@@ -177,7 +176,7 @@ The footer has 4 social media links, Facebook, Twitter, Youtube and Instagram. I
 
 * I used resources on W3Schools and Stack Overflow.
 
-* I used tutorials from Ania Kubów, NullX, Coding Artist and CodingNepal all on youtube.
+* I used tutorials from NullX, Ania Kubów, Coding Artist and CodingNepal all on youtube.
 
 * I used learnt code from my first project.
 
@@ -185,6 +184,3 @@ The footer has 4 social media links, Facebook, Twitter, Youtube and Instagram. I
 
 * All fonts came from Google Fonts https://fonts.google.com/
 
-### Icons
-
-* All icons came form Font Awesome https://fontawesome.com/
