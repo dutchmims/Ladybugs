@@ -37,7 +37,7 @@ The header is simply the name of the website and game. It also hosts the score.
 * The main feature of the site.
 * 12 cards (6 matching pairs of ladybugs). 
 * Cards are shuffled and are shown face down.
-* Once click, the card is revealed. A second card is then chosed. Matching pairs stay face up. Non-matching pairs get put back face down.
+* Once clicked, the card is revealed. A second card is then chosen. Matching pairs stay face up. Non-matching pairs get put back face down.
     
 <img width="1209" alt="Screenshot 2023-03-30 at 09 08 57" src="https://user-images.githubusercontent.com/119881922/228777543-cca870c8-1ebe-4444-b0de-d837f8257ff0.png">
     
