@@ -174,6 +174,5 @@ function restartGame() {
     startGame();
 }
 
-
 // restart game button restarts game without reloading the page
-restartBtn.addEventListener("
+restartBtn.addEventListener("click", restartGame);
