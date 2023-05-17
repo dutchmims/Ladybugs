@@ -1,103 +1,102 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
+  <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="a memory game of matching the ladybugs">
-    <meta name="keywords" content="game, memory, memory game, ladybugs, flip the card">
-
-    <title>Ladybugs</title>
-
+    <meta name="description" content="a memory card game of matching the ladybugs">
+    <meta name="keywords" content="card game, memory card game, memory game, ladybugs, flip the card">
     <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="icon" href="assets/images/favicon.ico">
+   
+     <!-- font awesome -->
+    <script src="https://kit.fontawesome.com/aecdaabae0.js" crossorigin="anonymous"></script>
 
-     <!-- google fonts -->
+    <!-- google fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Allerta+Stencil&display=swap" rel="stylesheet">  
-
-       <!-- font awesome -->
-    <script src="https://kit.fontawesome.com/aecdaabae0.js" crossorigin="anonymous"></script>
-
-</head>
+    
+    <title>Ladybugs</title>
+  </head>
 
 <body>
+  
+  <header> 
 
-    <header> 
+    <div class="head">
+    <h2>Ladybugs</h2>
+    <div class="score">Score: <span>0</span></div>
+    </div>
 
-      <div class="head">
-        <h2>Ladybugs</h2>
-        <div class="score">Score: <span>0</span></div>
-      </div>
+  </header>
 
-    </header>
-
-      <!-- game playing area with grid of cards -->
+  <!-- game playing area with grid of cards -->
   <section> 
 
     <div class="container">
 
-        <div class="cell">
-            <div class="front" data-index="1"><img src="assets/images/1.png" alt=""></div>
-            <div class="back"></div>
-        </div>
+      <div class="cell">
+        <div class="front" data-index="1"><img src="assets/images/1.png" alt=""></div>
+        <div class="back"></div>
+      </div>
 
-        <div class="cell">
-            <div class="front" data-index="1"><img src="assets/images/2.png" alt=""></div>
-            <div class="back"></div>
-        </div>
+      <div class="cell">
+        <div class="front" data-index="1"><img src="assets/images/2.png" alt=""></div>
+        <div class="back"></div>
+      </div>
 
-        <div class="cell">
-            <div class="front" data-index="2"><img src="assets/images/3.png" alt=""></div>
-            <div class="back"></div>
-        </div>
+      <div class="cell">
+        <div class="front" data-index="2"><img src="assets/images/3.png" alt=""></div>
+        <div class="back"></div>
+      </div>
 
-        <div class="cell">
-            <div class="front" data-index="2"><img src="assets/images/4.png" alt=""></div>
-            <div class="back"></div>
-        </div>
+      <div class="cell">
+        <div class="front" data-index="2"><img src="assets/images/4.png" alt=""></div>
+        <div class="back"></div>
+      </div>
 
-        <div class="cell">
-            <div class="front" data-index="3"><img src="assets/images/5.png" alt=""></div>
-            <div class="back"></div>
-        </div>
+      <div class="cell">
+        <div class="front" data-index="3"><img src="assets/images/5.png" alt=""></div>
+        <div class="back"></div>
+      </div>
 
-        <div class="cell">
-            <div class="front" data-index="3"><img src="assets/images/6.png" alt=""></div>
-            <div class="back"></div>
-        </div>
+      <div class="cell">
+        <div class="front" data-index="3"><img src="assets/images/6.png" alt=""></div>
+        <div class="back"></div>
+      </div>
 
-        <div class="cell">
-            <div class="front" data-index="4"><img src="assets/images/7.png" alt=""></div>
-            <div class="back"></div>
-        </div>
+      <div class="cell">
+        <div class="front" data-index="4"><img src="assets/images/7.png" alt=""></div>
+        <div class="back"></div>
+      </div>
 
-        <div class="cell">
-            <div class="front" data-index="4"><img src="assets/images/8.png" alt=""></div>
-            <div class="back"></div>
-        </div>
+      <div class="cell">
+        <div class="front" data-index="4"><img src="assets/images/8.png" alt=""></div>
+        <div class="back"></div>
+      </div>
 
-        <div class="cell">
-            <div class="front" data-index="5"><img src="assets/images/9.png" alt=""></div>
-            <div class="back"></div>
-        </div>
+      <div class="cell">
+        <div class="front" data-index="5"><img src="assets/images/9.png" alt=""></div>
+        <div class="back"></div>
+      </div>
 
-        <div class="cell">
-            <div class="front" data-index="5"><img src="assets/images/10.png" alt=""></div>
-            <div class="back"></div>
-        </div>
+      <div class="cell">
+        <div class="front" data-index="5"><img src="assets/images/10.png" alt=""></div>
+        <div class="back"></div>
+      </div>
 
-        <div class="cell">
-            <div class="front" data-index="6"><img src="assets/images/11.png" alt=""></div>
-            <div class="back"></div>
-        </div>
+      <div class="cell">
+        <div class="front" data-index="6"><img src="assets/images/11.png" alt=""></div>
+        <div class="back"></div>
+      </div>
 
-        <div class="cell">
-            <div class="front" data-index="6"><img src="assets/images/12.png" alt=""></div>
-            <div class="back"></div>
-        </div>
+      <div class="cell">
+        <div class="front" data-index="6"><img src="assets/images/12.png" alt=""></div>
+        <div class="back"></div>
+      </div>
 
     </div> 
 
@@ -107,36 +106,37 @@
 
 <footer>
 
-     <!-- social media links -->
-    <ul class="social-networks">
+ <!-- social media links -->
+<ul class="social-networks">
 
-        <li>
-            <a href="https://facebook.com" target="_blank" rel="noopener"
-                aria-label="Visit our Facebook page (opens in a new tab)"><i class="fab fa-facebook"></i></a>
-        </li>
-        <li>
-            <a href="https://twitter.com" target="_blank" rel="noopener"
-                aria-label="Visit our Twitter page (opens in a new tab)"><i class="fab fa-twitter-square"></i></a>
-        </li>
-        <li>
-            <a href="https://youtube.com" target="_blank" rel="noopener"
-                aria-label="Visit our YouTube page (opens in a new tab)"><i class="fab fa-youtube-square"></i></a>
-        </li>
-        <li>
-            <a href="https://instagram.com" target="_blank" rel="noopener"
-                aria-label="Visit our Instagram page (opens in a new tab)"><i class="fab fa-instagram"></i></a>
-        </li>
+    <li>
+        <a href="https://facebook.com" target="_blank" rel="noopener"
+            aria-label="Visit our Facebook page (opens in a new tab)"><i class="fab fa-facebook"></i></a>
+    </li>
+    <li>
+        <a href="https://twitter.com" target="_blank" rel="noopener"
+            aria-label="Visit our Twitter page (opens in a new tab)"><i class="fab fa-twitter-square"></i></a>
+    </li>
+    <li>
+        <a href="https://youtube.com" target="_blank" rel="noopener"
+            aria-label="Visit our YouTube page (opens in a new tab)"><i class="fab fa-youtube-square"></i></a>
+    </li>
+    <li>
+        <a href="https://instagram.com" target="_blank" rel="noopener"
+            aria-label="Visit our Instagram page (opens in a new tab)"><i class="fab fa-instagram"></i></a>
+    </li>
 
-    </ul>
+</ul>
 
-    <small>&copy; 2023 Ladybugs, All Rights Reserved.</small> 
-    
+<small>&copy; 2023 Ladybugs, All Rights Reserved.</small> 
+
 </footer>
 
-<script src="assets/js/script.js"></script>
-<noscript>Your browser does not support JavaScript or had JavaScript disabled. You need to enable JavaScript to play
-    the game.
-</noscript>
 
+    <script src="assets/js/script.js"></script>
+    <noscript>Your browser does not support JavaScript or had JavaScript disabled. You need to enable JavaScript to play
+        the game.
+    </noscript>
+</body>
 
 </html>
