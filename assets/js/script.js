@@ -1,8 +1,8 @@
-// retrieve card (cell) element
-const card = document.querySelectorAll('.cell');
+// retrieve card (cell) elements
+const cards = Array.from(document.querySelectorAll('.cell'));
 
-// retrieve front element
-const front = document.querySelectorAll('.front');
+// retrieve front elements
+const fronts = Array.from(document.querySelectorAll('.front'));
 
 // retrieve container element
 const container = document.querySelector('.container');
@@ -11,47 +11,44 @@ const container = document.querySelector('.container');
 const score = document.querySelector('.score span');
 
 // shuffle cards 
-suffleImage();
-clicking();
-function suffleImage() {
-  card.forEach((c) => {
-    const num = [...Array(card.length).keys()];
-    const random = Math.floor(Math.random() * card.length);
+shuffleImages();
+setupClickHandlers();
 
-    c.style.order = num[random];
+function shuffleImages() {
+  cards.forEach((card) => {
+    const randomIndex = Math.floor(Math.random() * cards.length);
+    card.style.order = randomIndex;
   });
 }
 
-function clicking() {
-  for (let i = 0; i < card.length; i++) {
-    front[i].classList.add('show');
+function setupClickHandlers() {
+  cards.forEach((card, index) => {
+    fronts[index].classList.add('show');
 
-    setInterval(() => {
-      front[i].classList.remove('show');
+    setTimeout(() => {
+      fronts[index].classList.remove('show');
     }, 2000);
 
-// count moves
-    card[i].addEventListener('click', () => {
-      front[i].classList.add('flip');
-      const filppedCard = document.querySelectorAll('.flip');
+    card.addEventListener('click', () => {
+      fronts[index].classList.add('flip');
+      const flippedCards = document.querySelectorAll('.flip');
 
-      if (filppedCard.length == 2) {
+      if (flippedCards.length === 2) {
         container.style.pointerEvents = 'none';
 
-        setInterval(() => {
+        setTimeout(() => {
           container.style.pointerEvents = 'all';
         }, 1000);
 
-        match(filppedCard[0], filppedCard[1]);
+        matchCards(flippedCards[0], flippedCards[1]);
       }
     });
-  }
+  });
 }
 
-// find matching cards
-function match(cardOne, cardTwo) {
-  if (cardOne.dataset.index == cardTwo.dataset.index) {
-    score.innerHTML = parseInt(score.innerHTML) + 1;
+function matchCards(cardOne, cardTwo) {
+  if (cardOne.dataset.index === cardTwo.dataset.index) {
+    score.textContent = parseInt(score.textContent) + 1;
 
     cardOne.classList.remove('flip');
     cardTwo.classList.remove('flip');
