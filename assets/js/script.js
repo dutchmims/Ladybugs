@@ -1,16 +1,16 @@
-// retrieve card (cell) elements
+// Retrieve card (cell) elements
 const cards = Array.from(document.querySelectorAll('.cell'));
 const fronts = Array.from(document.querySelectorAll('.front'));
 const container = document.querySelector('.container');
 const score = document.querySelector('.score span');
 
-// shuffle cards 
+// Shuffle cards 
 shuffleImages();
 setupClickHandlers();
 
 function shuffleImages() {
-  if (!cards.length) {
-    console.error('No cards found.');
+  if (!Array.isArray(cards) || cards.length === 0) {
+    console.error('No cards found or invalid cards array.');
     return;
   }
 
@@ -21,12 +21,17 @@ function shuffleImages() {
 }
 
 function setupClickHandlers() {
-  if (!cards.length || !fronts.length || !container || !score) {
-    console.error('Required elements not found.');
+  if (!Array.isArray(cards) || cards.length === 0 || !Array.isArray(fronts) || fronts.length === 0 || !container || !score) {
+    console.error('Required elements not found or invalid arrays.');
     return;
   }
 
   cards.forEach((card, index) => {
+    if (!fronts[index]) {
+      console.error(`Front element not found for card at index ${index}.`);
+      return;
+    }
+
     fronts[index].classList.add('show');
 
     setTimeout(() => {
@@ -34,6 +39,11 @@ function setupClickHandlers() {
     }, 2000);
 
     card.addEventListener('click', () => {
+      if (!fronts[index]) {
+        console.error(`Front element not found for card at index ${index}.`);
+        return;
+      }
+
       fronts[index].classList.add('flip');
       const flippedCards = document.querySelectorAll('.flip');
 
@@ -56,13 +66,30 @@ function matchCards(cardOne, cardTwo) {
     return;
   }
 
+  if (!cardOne.dataset || !cardTwo.dataset || !cardOne.dataset.index || !cardTwo.dataset.index) {
+    console.error('Card elements missing dataset or dataset index.');
+    return;
+  }
+
   if (cardOne.dataset.index === cardTwo.dataset.index) {
     if (!score) {
       console.error('Score element not found.');
       return;
     }
 
-    score.textContent = parseInt(score.textContent) + 1;
+    if (!score.textContent) {
+      console.error('Score element has no text content.');
+      return;
+    }
+
+    const currentScore = parseInt(score.textContent);
+
+    if (isNaN(currentScore)) {
+      console.error('Score is not a valid number.');
+      return;
+    }
+
+    score.textContent = currentScore + 1;
 
     cardOne.classList.remove('flip');
     cardTwo.classList.remove('flip');
@@ -76,4 +103,3 @@ function matchCards(cardOne, cardTwo) {
     }, 1000);
   }
 }
-
