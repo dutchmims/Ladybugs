@@ -1,13 +1,7 @@
 // retrieve card (cell) elements
 const cards = Array.from(document.querySelectorAll('.cell'));
-
-// retrieve front elements
 const fronts = Array.from(document.querySelectorAll('.front'));
-
-// retrieve container element
 const container = document.querySelector('.container');
-
-// retrieve score element
 const score = document.querySelector('.score span');
 
 // shuffle cards 
@@ -15,6 +9,11 @@ shuffleImages();
 setupClickHandlers();
 
 function shuffleImages() {
+  if (!cards.length) {
+    console.error('No cards found.');
+    return;
+  }
+
   cards.forEach((card) => {
     const randomIndex = Math.floor(Math.random() * cards.length);
     card.style.order = randomIndex;
@@ -22,6 +21,11 @@ function shuffleImages() {
 }
 
 function setupClickHandlers() {
+  if (!cards.length || !fronts.length || !container || !score) {
+    console.error('Required elements not found.');
+    return;
+  }
+
   cards.forEach((card, index) => {
     fronts[index].classList.add('show');
 
@@ -47,7 +51,17 @@ function setupClickHandlers() {
 }
 
 function matchCards(cardOne, cardTwo) {
+  if (!cardOne || !cardTwo) {
+    console.error('Invalid card elements.');
+    return;
+  }
+
   if (cardOne.dataset.index === cardTwo.dataset.index) {
+    if (!score) {
+      console.error('Score element not found.');
+      return;
+    }
+
     score.textContent = parseInt(score.textContent) + 1;
 
     cardOne.classList.remove('flip');
@@ -62,3 +76,4 @@ function matchCards(cardOne, cardTwo) {
     }, 1000);
   }
 }
+
