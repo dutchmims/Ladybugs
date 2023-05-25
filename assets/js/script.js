@@ -1,3 +1,4 @@
+/*jshint esversion: 6 */ 
 // Retrieve card (cell) elements
 const cards = Array.from(document.querySelectorAll('.cell'));
 const fronts = Array.from(document.querySelectorAll('.front'));
