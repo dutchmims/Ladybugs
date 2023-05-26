@@ -173,11 +173,12 @@ The footer has 4 social media links, Facebook, Twitter, Youtube and Instagram. I
 
 ## Desktop
 
-<img width="651" alt="Screenshot 2023-03-29 at 23 11 43" src="https://user-images.githubusercontent.com/119881922/228679794-001c7838-d08d-48af-9d99-61cc111030fe.png">
+<img width="1280" alt="Screenshot 2023-05-26 at 09 29 28" src="https://github.com/dutchmims/Ladybugs/assets/119881922/39c83e9a-f0a6-4027-9bbb-f90e1dcc3abf">
 
 ## Mobile
 
-<img width="647" alt="Screenshot 2023-03-29 at 23 12 41" src="https://user-images.githubusercontent.com/119881922/228679863-4813174c-2123-4b29-b49e-82124a6fe611.png">
+<img width="1280" alt="Screenshot 2023-05-26 at 09 31 07" src="https://github.com/dutchmims/Ladybugs/assets/119881922/1774fa22-6065-4b90-87ec-9de0d471636a">
+
 
 ## Unfixed Bugs
 * There are no bugs that I am aware of.
