@@ -152,7 +152,7 @@ The footer has 4 social media links, Facebook, Twitter, Youtube and Instagram. I
 ## 1. HTML Validation
 * Validator.w3.org was used to test the HTML code of the project and found no errors. 
 
-<img width="1272" alt="Screenshot 2023-03-27 at 22 35 13" src="https://user-images.githubusercontent.com/119881922/228525629-e75c40c6-1e81-4c7d-8c9b-6a60026037cd.png">
+<img width="1275" alt="Screenshot 2023-05-26 at 09 20 29" src="https://github.com/dutchmims/Ladybugs/assets/119881922/7e63fb3a-a917-45f6-9dce-acebae3b0eb8">
 
 ## 2. CSS Validation
 * Validator.w3.org was used to test the CSS code of the project and found no errors. 
@@ -162,9 +162,12 @@ The footer has 4 social media links, Facebook, Twitter, Youtube and Instagram. I
 ## 3. JavaScript Validation
 * jshint.com was used to test the JavaScript code of the project and found no errors. 
 
-<img width="1275" alt="Screenshot 2023-03-29 at 12 35 26" src="https://user-images.githubusercontent.com/119881922/228525764-8214a717-dc87-4976-a124-a12d3516633f.png">
+<img width="1280" alt="Screenshot 2023-05-26 at 09 17 25" src="https://github.com/dutchmims/Ladybugs/assets/119881922/bf5b9de8-3ee6-4db1-8bdf-3dd7c9e9d447">
 
-<img width="1278" alt="Screenshot 2023-03-29 at 12 35 39" src="https://user-images.githubusercontent.com/119881922/228525777-881b5cd5-0f4d-4cdc-a86c-071a64e95372.png">
+<img width="1280" alt="Screenshot 2023-05-26 at 09 17 46" src="https://github.com/dutchmims/Ladybugs/assets/119881922/62e5374d-bf1f-48d9-a5dd-3c422c7f16c9">
+
+<img width="1278" alt="Screenshot 2023-05-26 at 09 17 58" src="https://github.com/dutchmims/Ladybugs/assets/119881922/8b3677ec-3eeb-495d-9d30-a39468e9f524">
+
 
 # Lighthouse Reports
 
