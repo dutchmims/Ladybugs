@@ -221,7 +221,7 @@ The footer has 4 social media links, Facebook, Twitter, Youtube and Instagram. I
 
 ## Icon
 
-* Icons came form Font Awesome, https://fontawesome.com/ and Favicon, https://favicon.io/
+* Icons came from Font Awesome, https://fontawesome.com/ and I used a Favicon from https://favicon.io/.
 
 ## Code
 
