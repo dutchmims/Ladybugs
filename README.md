@@ -22,11 +22,11 @@ Ladybugs (https://dutchmims.github.io/Ladybugs/)
 8. Sources 
 
 # Project Overview
-To produce and a fun, addictive and interactive memory card game where the user's aim is to find all matching ladybugs as quick as possible. It is suitable for any age. It's easy to pick up and play without instructions.
+To produce a fun, addictive and interactive memory card game where the user's aim is to find all matching ladybugs. It is suitable for any age. It's easy to pick up and play without instructions.
 
 # Features
 
-# Header
+## Header
 
 The header is simply the name of the website and game. It also hosts the score.
 
@@ -34,7 +34,7 @@ The header is simply the name of the website and game. It also hosts the score.
 
 <img width="406" alt="Screenshot 2023-03-30 at 11 02 08" src="https://user-images.githubusercontent.com/119881922/228806470-6abd5532-e674-44d1-94cd-5269cc0d15ee.png">
 
-# Game Area
+## Game Area
 
 * The main feature of the site.
 * 12 cards (6 matching pairs of ladybugs). 
@@ -49,7 +49,7 @@ The header is simply the name of the website and game. It also hosts the score.
 
 <img width="979" alt="Screenshot 2023-03-30 at 11 05 17" src="https://user-images.githubusercontent.com/119881922/228807460-b334c62c-0d4a-4cdb-a92e-1c52c54f46d8.png">
 
-# Ladybugs
+## Ladybugs
 
 ![1](https://user-images.githubusercontent.com/119881922/228779263-e7350591-5349-4a1c-aa9d-1de51ad633ac.png)
 
@@ -63,7 +63,7 @@ The header is simply the name of the website and game. It also hosts the score.
 
 ![11](https://user-images.githubusercontent.com/119881922/228779404-ed114965-f0e4-479a-a358-7670217fdb48.png)
 
-# Footer
+## Footer
 
 The footer has 4 social media links, Facebook, Twitter, Youtube and Instagram. It also has the website copyright at the bottom left.
 
